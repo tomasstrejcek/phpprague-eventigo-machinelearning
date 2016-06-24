@@ -10,4 +10,4 @@ the demo is just barely workable, but the process should work after few tweaks
 
 data we used for training the network are also in repo
 
-
+(dont hate me for symplifying too much, i know)
